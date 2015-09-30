@@ -7,3 +7,5 @@ Commit과 Push의 차이가 뭔가...
 그러니까 Commit은 로컬저장소에. Push는 원격저장소에?
 
 Commit전에 다시 수정
+
+또한번 수정
